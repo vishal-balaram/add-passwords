@@ -1,0 +1,250 @@
+* {
+  font-family: 'Roboto';
+}
+
+.bg-container {
+  padding: 35px;
+  background-color: #9ba9eb;
+}
+
+.app-logo {
+  height: 100px;
+  width: 300px;
+}
+
+.input-card {
+  background-color: #5763a5;
+  padding: 55px;
+  border-radius: 6px;
+  margin: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-top: 25px;
+}
+
+.add-password-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.input-card-card {
+  background-color: #454f84;
+  padding: 35px;
+  border-radius: 7px;
+  width: 39vw;
+}
+
+.website-logo {
+  background-color: #ffffff;
+  height: 50px;
+  width: 50px;
+  padding: 12px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.website-input {
+  height: 50px;
+  margin-top: 0px;
+  padding-top: 0px;
+  border: none;
+  outline: none;
+  border-left: 1px solid #94a3b8;
+  padding-left: 10px;
+  width: 35vw;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.website-logo-input {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+
+.button {
+  height: 35px;
+  width: 95px;
+  border-radius: 5px;
+  background-color: #0b69ff;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.password-manager-image {
+  height: 500px;
+  width: 500px;
+}
+
+.passwords-store-card {
+  background-color: #5763a5;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.your-password-heading {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.your-password-heading-para-container {
+  display: flex;
+  flex-direction: row;
+  padding-left: 30px;
+}
+
+.passwords-count {
+  color: #ffffff;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 9px;
+  margin-left: 9px;
+  padding: 4px;
+  height: 30px;
+}
+
+.your-password-count-search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.search-logo {
+  background-color: #ffffff;
+  height: 35px;
+  width: 35px;
+  border: none;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.search-input {
+  height: 35px;
+  width: 175px;
+  border-left: 3px solid #64748b;
+  border: none;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  outline: none;
+}
+
+.search-input-logo-container {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+}
+
+.checkbox-input {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+
+.check-box-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin: 25px;
+}
+
+.checkbox-label {
+  color: #ffffff;
+  margin-top: 3px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.passwords-details-card {
+  background-color: transparent;
+  border: 1px solid #bfbfbf;
+  display: flex;
+  flex-direction: row;
+  width: 285px;
+  height: 125px;
+  border-radius: 10px;
+  padding: 25px;
+  margin-left: 20px;
+  list-style-type: none;
+  margin-top: 25px;
+}
+
+.profile-logo {
+  background-color: #10b981;
+  color: white;
+  font-size: 20px;
+  border-radius: 50px;
+  width: 60px;
+  padding: 20px;
+  padding-bottom: 40px;
+  height: 50px;
+  /* margin-top: 23px; */
+  text-align: center;
+}
+
+.username-password-details-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 13px;
+  /* margin-top: 15px; */
+}
+
+.website {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  color: #ffffff;
+  margin-top: 3px;
+  padding-top: 3px;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.delete-logo {
+  height: 25px;
+  width: 25px;
+
+  margin-left: 55px;
+}
+
+.button-delete {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  width: 15px;
+}
+
+.no-passwords-image {
+  height: 300px;
+  width: 500px;
+}
+
+.no-passwords-heading {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.nopasswords-image-heading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.stars {
+  height: 15px;
+  width: 92px;
+}
